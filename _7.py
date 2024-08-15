@@ -12,5 +12,5 @@ print(partes_nombre_archivo)
 # Con -1 obtenemos el ultimo elemento de la lista
 print("La extensión del archivo es:", partes_nombre_archivo[-1])
 
-# Otra forma que obtener el mismo resultado
+# Otra forma que obtener el mismo resultado (Solo para dos elementos)
 print(f'La extencion del archivo es: {nombre_archivo[-2:]}')
